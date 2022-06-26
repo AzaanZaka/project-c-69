@@ -1,7 +1,11 @@
+* {
+    font-family: 'Brush Script MT', cursive;
+    background-color: blue;
+}
 
 input
 {
-    background: grey
+    background-color: blue;
 }
 
 .book_mainDiv
